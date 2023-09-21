@@ -11,4 +11,10 @@ describe('<Main />', () => {
     //busca o elemento e verifica e existência dele
     expect(container.firstChild).toMatchSnapshot()
   })
+
+  it('should render the colors correctly', () => {
+    const { container } = render(<Main />)
+    //verifica se a cor de fundo
+    expect(container.firstChild).toHaveStyle({ 'background-color': '#06092b' })
+  })
 })
