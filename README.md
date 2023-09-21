@@ -1,4 +1,14 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+Boilerplate configuration
+
+- Next.js
+- editorconfig
+- Eslint
+- Pretiier
+- Git Hooks (husky e Lint-Staged)
+- Jest
+- Testing Library
+- Styled components
+- Husky
 
 ## Getting Started
 
