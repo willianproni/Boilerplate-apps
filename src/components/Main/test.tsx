@@ -6,7 +6,7 @@ describe('<Main />', () => {
     const { container } = render(<Main />)
     //renderiza o component
     expect(
-      screen.getByRole('heading', { name: /react avançado/i })
+      screen.getByRole('heading', { name: /Boilerplate para Apps/i })
     ).toBeInTheDocument()
     //busca o elemento e verifica e existência dele
     expect(container.firstChild).toMatchSnapshot()

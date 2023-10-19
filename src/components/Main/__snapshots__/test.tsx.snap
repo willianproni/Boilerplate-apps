@@ -17,8 +17,11 @@ exports[`<Main /> should render the heading 1`] = `
 <main
   class="c0"
 >
-  <h2>
-    React Avançado
-  </h2>
+  <h1>
+    Boilerplate para Apps
+  </h1>
+  <p>
+    TypeScript, ReactJS, NextJS, e styled Components
+  </p>
 </main>
 `;
