@@ -9,8 +9,6 @@ Boilerplate configuration
 - Testing Library
 - Styled components
 - Husky
-- Git Actions
-- teste
 
 ## Getting Started
 
