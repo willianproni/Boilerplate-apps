@@ -10,6 +10,7 @@ Boilerplate configuration
 - Styled components
 - Husky
 - Git Actions
+- teste
 
 ## Getting Started
 
